@@ -19,10 +19,10 @@ for the end users, clients, and fellow developers.
 📨 Message me here: LinkedIn](https://www.linkedin.com/in/breeana-payton/)
 <br>
 <br>
-📝 Reach me via email: <breeana.payton@gmail.com>
+📬 Reach me via email: <breeana.payton@gmail.com>
 <br>
 <br>
-📝 Call me here: 918.727.3064
+📱 Call me here: 918.727.3064
 <br>
 <br>
 ![Bree's Github Stats](https://github-readme-stats.vercel.app/api?username=PaytonDev&show_icons=true&theme=dark)
