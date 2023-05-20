@@ -16,7 +16,7 @@ for the end users, clients, and fellow developers.
 📝 Check my resume out here: [Bree's Resume](https://drive.google.com/file/d/12Uk9sbmSeSTwWO21z15WSxIUhwWuVVKx/view?usp=sharing)
 <br>
 <br>
-📨 Message me here: LinkedIn](https://www.linkedin.com/in/breeana-payton/)
+📨 Message me here: [LinkedIn](https://www.linkedin.com/in/breeana-payton/)
 <br>
 <br>
 📬 Reach me via email: <breeana.payton@gmail.com>
