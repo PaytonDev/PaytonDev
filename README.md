@@ -22,7 +22,4 @@ for the end users, clients, and fellow developers.
 📬 Reach me via email: <breeana.payton@gmail.com>
 <br>
 <br>
-![Bree's Github Stats](https://github-readme-stats.vercel.app/api?username=PaytonDev&show_icons=true&theme=dark)
-<br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaytonDev&layout=compact)](https://github.com/PaytonDevr/github-readme-stats)
